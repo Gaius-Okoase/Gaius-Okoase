@@ -1,0 +1,28 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with recent activity
+        uses: readme-sync/readme-sync@v1
+        with:
+          source-file: "README.md"
+          target-file: "README.md"
+          start-identifier: "<!--START_SECTION:activity-->"
+          end-identifier: "<!--END_SECTION:activity-->"
+          write-mode: "append"
+          commit-msg: "📈 Update recent activity in README"
+          committer-name: "Gaius Okoase"
+          committer-email: "gaius.okoase@example.com"

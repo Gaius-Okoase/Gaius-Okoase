@@ -30,12 +30,10 @@ I'm a passionate **Backend Developer** specializing in **Node.js**, **Express.js
 ### **Databases & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### **Tools & Technologies**
@@ -60,7 +58,7 @@ A comprehensive law firm management platform with advanced booking and file mana
 - 📧 Automated email notifications
 - 🚀 Deployed on Render with environment optimization
 
-**Tech Stack:** Node.js, Express.js, MongoDB, AWS S3, JWT, Multer, Nodemailer
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT, Multer, Nodemailer
 
 ---
 

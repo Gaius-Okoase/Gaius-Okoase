@@ -17,13 +17,7 @@ jobs:
 
       - name: Update README with recent activity
         uses: Readme-Workflows/recent-activity@v2.0.0
-
         with:
-          source-file: "README.md"
-          target-file: "README.md"
-          start-identifier: "<!--START_SECTION:activity-->"
-          end-identifier: "<!--END_SECTION:activity-->"
-          write-mode: "append"
-          commit-msg: "📈 Update recent activity in README"
-          committer-name: "Gaius Okoase"
-          committer-email: "gaiusonosetale@gmail.com"
+          GH_USERNAME: Gaius-Okoase
+          CONFIG_FILE: .github/recent-activity.config.yml
+        

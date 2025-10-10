@@ -25,4 +25,4 @@ jobs:
           write-mode: "append"
           commit-msg: "📈 Update recent activity in README"
           committer-name: "Gaius Okoase"
-          committer-email: "gaius.okoase@example.com"
+          committer-email: "gaiusonosetale@gmail.com"

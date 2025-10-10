@@ -20,4 +20,4 @@ jobs:
         with:
           GH_USERNAME: Gaius-Okoase
           CONFIG_FILE: .github/recent-activity.config.yml
-        
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

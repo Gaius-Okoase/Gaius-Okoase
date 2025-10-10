@@ -16,7 +16,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README with recent activity
-        uses: readme-sync/readme-sync@v1
+        uses: Readme-Workflows/recent-activity@v2.0.0
+
         with:
           source-file: "README.md"
           target-file: "README.md"

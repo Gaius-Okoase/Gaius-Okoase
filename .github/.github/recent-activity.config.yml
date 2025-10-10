@@ -1,0 +1,10 @@
+activity:
+  max_lines: 5
+  exclude:
+    - fork
+    - watch
+
+output:
+  file: README.md
+  start_token: "<!--START_SECTION:activity-->"
+  end_token: "<!--END_SECTION:activity-->"

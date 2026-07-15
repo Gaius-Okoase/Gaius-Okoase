@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** specializing in **Node.js**, **Express.js**, and **AWS Serverless Architecture**. I love building secure, scalable APIs and implementing robust authentication systems that power modern web applications.
+I'm a passionate **Backend Developer** specializing in **TypeScript**, **Node.js**, **Express.js**, and **AWS Serverless Architecture**. I love building secure, scalable APIs and implementing robust authentication systems that power modern web applications.
 
 ### 🎯 Current Focus
 - 🔧 Building  server applications with Node.js and Express.js
@@ -94,25 +94,14 @@ A serverless agriculture platform connecting farmers with modern technology solu
 - 💼 **Seeking opportunities** in backend development and serverless architecture
 - 📈 **Expanding expertise** in AWS cloud services and microservices
 - 🤝 **Collaborating** on meaningful projects that solve real-world problems
-- 📚 **Continuous learning** in TypeScript, advanced AWS services, and system design
+- 📚 **Continuous learning** in advanced AWS services, and system design
 
 ---
 
 ## 🔧 What I'm Currently Working On
 
-- 📚 **TypeScript Migration** - Converting JavaScript projects to TypeScript
 - ☁️ **AWS Advanced Services** - Exploring DynamoDB, RDS, and advanced Lambda patterns
 - 🐳 **Docker & Containerization** - Improving deployment and development workflows
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Gaius-Okoase/Gaius-Okoase/pull/1) in [Gaius-Okoase/Gaius-Okoase](https://github.com/Gaius-Okoase/Gaius-Okoase)
-2. 🔨 Created issue [#1](https://github.com/Gaius-Okoase/Gaius-Okoase/issues/1) in [Gaius-Okoase/Gaius-Okoase](https://github.com/Gaius-Okoase/Gaius-Okoase)
-3. 📝 Updated README.md in [Gaius-Okoase/Gaius-Okoase](https://github.com/Gaius-Okoase/Gaius-Okoase)
-<!--END_SECTION:activity-->
 
 ---
 
